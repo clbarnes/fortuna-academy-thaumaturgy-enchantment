@@ -1,0 +1,3 @@
+[submodule "imports/fate-condensed-srd-adoc"]
+	path = imports/fate-condensed-srd-adoc
+	url = https://github.com/open-ttrpg-library/fate-condensed-srd-adoc.git

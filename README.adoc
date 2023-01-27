@@ -1,6 +1,6 @@
-= rpg-template-adoc
+= The Fortuna Academy for Thaumaturgy and Enchantment
 
-A template for writing content similar to RPG source books using https://asciidoctor.org/[asciidoctor].
+Based on a template for writing content similar to RPG source books using https://asciidoctor.org/[asciidoctor], hosted at https://github.com/open-ttrpg-library/rpg-template-adoc[open-ttrpg-library/rpg-template-adoc].
 
 == This repo
 
