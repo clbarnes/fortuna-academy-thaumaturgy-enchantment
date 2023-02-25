@@ -38,7 +38,7 @@ On the first Tuesday after the southward equinox, term begins.
 
 == Rules
 
-The core mechanics of _Fortuna's_ are explained in https://evilhat.com/product/fate-condensed/[Evil Hat Games' Fate Condensed], for which a System Reference Document is available https://fate-srd.com/fate-condensed[here] and at the end of this book.
+The core mechanics of _Fortuna's_ are explained in https://evilhat.com/product/fate-condensed/[Evil Hat Games' Fate Condensed], for which a System Reference Document is available https://fate-srd.com/fate-condensed[here] and in the appendix of this book.
 _Fortuna's_ is not endorsed by or affiliated with Evil Hat Games in any way.
 
 === Character creation
