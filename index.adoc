@@ -1,9 +1,9 @@
-= The Fortuna Academy for Thaumaturgical Education
+= The Fortuna Academy for Thaumaturgy and Enchantment
 Chris L. Barnes <chrislloydbarnes@gmail.com>
 :toc: left
 :!player-only:
 
-_The Fortuna Academy for Thaumaturgical Education_ ("_Fortuna's_") is a tabletop role-playing game, where you play a young character attending a school for magic users.
+_The Fortuna Academy for Thaumaturgy and Enchantment_ ("_Fortuna's_") is a tabletop role-playing game, where you play a young character attending a school for magic users.
 If you enjoy books like https://www.penguinrandomhouse.com/series/WWI/worst-witch[the Worst Witch] and https://www.wizardingworld.com/[Harry Potter], TV shows like https://www.imdb.com/title/tt4254242/[The Magicians], and games like https://renegadegamestudios.com/kids-on-brooms/[Kids On Brooms], this may be for you!
 
 _Fortuna's_ is based on the https://evilhat.com/product/fate-condensed/[Fate Condensed] system, for easy-to-start, hard-to-stop games full of competent, proactive, and dramatic characters.
@@ -13,28 +13,94 @@ The _Fortuna's_ experience is one of collaborative storytelling rather than line
 
 Thaumaturges (users of magic) exist in a reality almost parallel to our own mundane one.
 They can see and do everything we can (although their auras tend to interfere with electronic devices), as well as interacting with a host of other planes, places, creatures, and characters.
-Even among this mysterious community, the Fortuna Academy for Thaumaturgical Education, colloquially referred to as Fortuna's, is a mystery unto itself.
-Arch-witch Ms Fortuna has presided over the boarding school for as long as anyone can remember, and while her former students are scattered throughout the magical world, few can put together more than a handful of the Academy's secrets.
+Even among this mysterious community, the Fortuna Academy for Thaumaturgy and Enchantment, colloquially referred to as Fortuna's, is a mystery unto itself.
+The enigmatic Ms Fortuna has presided over the boarding school for as long as anyone can remember.
+While her former students are scattered throughout the magical world, few can put together more than a handful of the Academy's secrets, or even details of Ms Fortuna herself.
 
-Fortuna's students come from a wide geographical region, as the Academy itself seems to have no fixed location: some alumni recall seeing the same scenery for their entire tenure, while others report awaking to misty moors, frosty peaks, dense jungles, and even a horizon of unbroken ocean on different occasions.
+Fortuna's students come from a wide geographical region, as the Academy itself seems to have no fixed location: some alumni recall seeing the same scenery for their entire tenure, while others report awaking to misty moors, frosty peaks, dense jungles, and even a horizon of unbroken ocean in the space of a week.
+
 Thaumaturges' magical backgrounds are even more diverse.
 Students range from scions of storied magical bloodlines, to Mundanes who dug too deep into the darkest corners of the library.
 Dragons trapped in humanoid form, descendants of celestials, revenants who have bargained with Those Below, heirs to elven thrones, and cursed puppets have all called Fortuna's their alma mater.
 
 Nobody knows how Ms Fortuna selects or even identifies prospective students, but the prestige of the Academy is such that few ever turn down an invitation.
-Students simply receive a communication bearing the legendary heading _curiosos Fortuna iuvat_, with instructions on how and when to enter the Academy.
+Students simply receive a communication bearing the legendary school motto _curiosos Fortuna iuvat_, with instructions on how and when to enter the Academy.
 On the first Tuesday after the southward equinox, term begins.
 
 == Rules
 
-Players roll a six-sided die.
-The highest roll wins!
+The core mechanics of _Fortuna's_ are explained in https://evilhat.com/product/fate-condensed/[Evil Hat Games' Fate Condensed], for which a System Reference Document is available https://fate-srd.com/fate-condensed[here].
+_Fortuna's_ is not endorsed by or affiliated with Evil Hat Games in any way.
+
+=== Character creation
+
+==== Aspects
+
+Aspects are short phrases which describe who your character is, and will be used by you and others to progress the narrative.
+A good aspect is a double-edged sword: it will advantage and disadvantage you in different situations.
+Aspects used against you (_compels_, which change the narrative, or _hostile invokes_, which provide a mechanical disadvantage) will earn you Fate points.
+Fate points can be spent on _invokes_ (gaining mechanical advantages based on your Aspects) or inflicting _compels_ or _hostile invokes_ on an opponent.
+
+Your character will start with 5 Aspect slots.
+They are:
+
+.High concept
+Who _is_ your character, really?
+
+.Thaumaturgical background
+How and why do you have your powers?
+
+.Relationship
+Some link to another player character.
+Remember, this should be a balance: you don't want to set up a nemesis you would never work with, nor a friendship so cosy that this aspect could never be invoked against you!
+
+.Report card standout
+Some feature of your curricular experience of the Academy.
+It could be a teacher who just won't get off your back, a favourite class, or a record-breaking streak of detentions.
+
+.Free slot
+Whatever you want!
+
+==== Skills
+
+_Fortuna's_ uses a two-column skill system.
+
+Your character has a certain degree of aptitude for particular Actions they may try to accomplish.
+Additionally, they have a grade in each of their Classes at the Academy!
+
+When you make a skill roll, pick the Action which most closely describes what you're trying to do.
+The table can discuss this if you're unsure, and the GM has final say.
+Sometimes, the same goal can be achieved through different means: you could break down a door, pick the lock, or sweet-talk the animated door knocker -- but that doesn't mean each avenue has the same chance of success.
+
+If your thaumaturgical knowledge or abilities come into play, you may add the modifier from the relevant Class.
+Again, which Class you choose can be negotiated.
+
+.Action
+- *Endure*
+- *Fight*
+// - *Know*
+- *Know Mundane*
+- *Know Thaumaturgy*
+- *Move*
+- *Notice*
+- *Pilot*
+- *Sneak*
+- *Speak*
+- *Tinker*
+- *Resource*
+
+.Class
+- *Stoicheiology*: the manipulation of elemental forces (air, earth, fire, water, aether, and others)
+- *Mentalism*: the art of mind-reading, communication, and illusion
+- *Clairvoyance*: the uncanny knowledge of the past, present, future
+- *Naturalia*: the study of thaumaturgical flora, fauna, and fiends
+- *Artificing*: the creation and use of thaumaturgical devices, potions, and knick-knacks
+- *Metamorphics*: the changing of one thing into another
+- *Kinetica*: the control of movement through the physical realm
 
 ifndef::player-only[]
 
 == Game Master rules
-
-Actually, the person with the best voice acting may win.
 
 endif::player-only[]
 
@@ -43,5 +109,7 @@ endif::player-only[]
 include::CREDITS.adoc[]
 
 include::LICENSE.adoc[]
+
+This work is based on Fate Core System and Fate Accelerated Edition (found at http://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
 :leveloffset: -1
