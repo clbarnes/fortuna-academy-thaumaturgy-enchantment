@@ -2,6 +2,9 @@ name: CI
 
 on: [push, pull_request]
 
+permissions:
+  contents: write
+
 jobs:
 
   build-and-deploy:
@@ -18,7 +21,7 @@ jobs:
       name: Build documents
     - name: Deploy to GH pages
       # if: ${{ github.event_name == 'push' && startsWith(github.ref, 'refs/tags/') }}
-      uses: JamesIves/github-pages-deploy-action@4.1.0
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
         folder: build/html
