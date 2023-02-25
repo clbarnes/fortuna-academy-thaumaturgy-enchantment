@@ -1,17 +1,23 @@
 = The Fortuna Academy for Thaumaturgy and Enchantment
 Chris L. Barnes <chrislloydbarnes@gmail.com>
 :toc: left
+:toclevels: 3
 :!player-only:
+:imagesdir: images/
+:figure-caption!:
 
 _The Fortuna Academy for Thaumaturgy and Enchantment_ ("_Fortuna's_") is a tabletop role-playing game, where you play a young character attending a school for magic users.
 If you enjoy books like https://www.penguinrandomhouse.com/series/WWI/worst-witch[the Worst Witch] and https://www.wizardingworld.com/[Harry Potter], TV shows like https://www.imdb.com/title/tt4254242/[The Magicians], and games like https://renegadegamestudios.com/kids-on-brooms/[Kids On Brooms], this may be for you!
+
+.Fate™ is a trademark of Evil Hat Productions, LLC. The Powered by Fate logo is © Evil Hat Productions, LLC and is used with permission.
+image::poweredbyfate.png[]
 
 _Fortuna's_ is based on the https://evilhat.com/product/fate-condensed/[Fate Condensed] system, for easy-to-start, hard-to-stop games full of competent, proactive, and dramatic characters.
 The _Fortuna's_ experience is one of collaborative storytelling rather than linear number-crunching.
 
 == Setting
 
-Thaumaturges (users of magic) exist in a reality almost parallel to our own mundane one.
+Thaumaturges (users of magic) exist in a reality almost parallel to our own Mundane one.
 They can see and do everything we can (although their auras tend to interfere with electronic devices), as well as interacting with a host of other planes, places, creatures, and characters.
 Even among this mysterious community, the Fortuna Academy for Thaumaturgy and Enchantment, colloquially referred to as Fortuna's, is a mystery unto itself.
 The enigmatic Ms Fortuna has presided over the boarding school for as long as anyone can remember.
@@ -20,7 +26,7 @@ While her former students are scattered throughout the magical world, few can pu
 Fortuna's students come from a wide geographical region, as the Academy itself seems to have no fixed location: some alumni recall seeing the same scenery for their entire tenure, while others report awaking to misty moors, frosty peaks, dense jungles, and even a horizon of unbroken ocean in the space of a week.
 
 Thaumaturges' magical backgrounds are even more diverse.
-Students range from scions of storied magical bloodlines, to Mundanes who dug too deep into the darkest corners of the library.
+Students range from scions of storied magical bloodlines, to Mundanes who dug too deep into the darkest corners of the public library.
 Dragons trapped in humanoid form, descendants of celestials, revenants who have bargained with Those Below, heirs to elven thrones, and cursed puppets have all called Fortuna's their alma mater.
 
 Nobody knows how Ms Fortuna selects or even identifies prospective students, but the prestige of the Academy is such that few ever turn down an invitation.
@@ -66,7 +72,7 @@ Whatever you want!
 _Fortuna's_ uses a two-column skill system.
 
 Your character has a certain degree of aptitude for particular Actions they may try to accomplish.
-Additionally, they have a grade in each of their Classes at the Academy!
+Additionally, they have a grade in each of their seven Classes at the Academy!
 
 When you make a skill roll, pick the Action which most closely describes what you're trying to do.
 The table can discuss this if you're unsure, and the GM has final say.
