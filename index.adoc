@@ -5,6 +5,9 @@ Chris L. Barnes <chrislloydbarnes@gmail.com>
 :!player-only:
 :imagesdir: images/
 :figure-caption!:
+:sectanchors:
+:sectlinks:
+:sectnums:
 
 _The Fortuna Academy for Thaumaturgy and Enchantment_ ("_Fortuna's_") is a tabletop role-playing game, where you play a young character attending a school for magic users.
 If you enjoy books like https://www.penguinrandomhouse.com/series/WWI/worst-witch[the Worst Witch] and https://www.wizardingworld.com/[Harry Potter], TV shows like https://www.imdb.com/title/tt4254242/[The Magicians], and games like https://renegadegamestudios.com/kids-on-brooms/[Kids On Brooms], this may be for you!
@@ -35,7 +38,7 @@ On the first Tuesday after the southward equinox, term begins.
 
 == Rules
 
-The core mechanics of _Fortuna's_ are explained in https://evilhat.com/product/fate-condensed/[Evil Hat Games' Fate Condensed], for which a System Reference Document is available https://fate-srd.com/fate-condensed[here].
+The core mechanics of _Fortuna's_ are explained in https://evilhat.com/product/fate-condensed/[Evil Hat Games' Fate Condensed], for which a System Reference Document is available https://fate-srd.com/fate-condensed[here] and at the end of this book.
 _Fortuna's_ is not endorsed by or affiliated with Evil Hat Games in any way.
 
 === Character creation
@@ -117,5 +120,10 @@ include::CREDITS.adoc[]
 include::LICENSE.adoc[]
 
 This work is based on Fate Core System and Fate Accelerated Edition (found at http://www.faterpg.com/), products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
+
+[appendix]
+= FATE Condensed SRD
+Evil Hat Productions <https://www.evilhat.com/>
+include::imports/fate-condensed-srd-adoc/index.adoc[lines=6..]
 
 :leveloffset: -1
