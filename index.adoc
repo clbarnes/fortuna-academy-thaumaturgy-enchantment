@@ -36,6 +36,9 @@ Nobody knows how Ms Fortuna selects or even identifies prospective students, but
 Students simply receive a communication bearing the legendary school motto _curiosos Fortuna iuvat_, with instructions on how and when to enter the Academy.
 On the first Tuesday after the southward equinox, term begins.
 
+Game masters and their groups are encouraged to collaboratively build their own experience within this loose setting.
+Some ideas are contained in the Game Master section of this book (so as not to spoil the mystery for potential players).
+
 == Rules
 
 The core mechanics of _Fortuna's_ are explained in https://evilhat.com/product/fate-condensed/[Evil Hat Games' Fate Condensed], for which a System Reference Document is available https://fate-srd.com/fate-condensed[here] and in the appendix of this book.
@@ -47,7 +50,8 @@ _Fortuna's_ is not endorsed by or affiliated with Evil Hat Games in any way.
 
 Aspects are short phrases which describe who your character is, and will be used by you and others to progress the narrative.
 A good aspect is a double-edged sword: it will advantage and disadvantage you in different situations.
-Aspects used against you (_compels_, which change the narrative, or _hostile invokes_, which provide a mechanical disadvantage) will earn you Fate points.
+Aspects used to your detriment (_compels_, which change the narrative, or _hostile invokes_, which provide a mechanical disadvantage) will earn you Fate points.
+You can _compel_ yourself to gain Fate points.
 Fate points can be spent on _invokes_ (gaining mechanical advantages based on your Aspects) or inflicting _compels_ or _hostile invokes_ on an opponent.
 
 Your character will start with 5 Aspect slots.
@@ -75,7 +79,7 @@ Whatever you want!
 _Fortuna's_ uses a two-column skill system.
 
 Your character has a certain degree of aptitude for particular Actions they may try to accomplish.
-Additionally, they have a grade in each of their seven Classes at the Academy!
+Additionally, they have a grade in each of their seven Classes at the Academy.
 
 When you make a skill roll, pick the Action which most closely describes what you're trying to do.
 The table can discuss this if you're unsure, and the GM has final say.
@@ -93,23 +97,99 @@ Again, which Class you choose can be negotiated.
 - *Move*
 - *Notice*
 - *Pilot*
+- *Resource*
 - *Sneak*
 - *Speak*
 - *Tinker*
-- *Resource*
+
+Players may distribute the following scores to their Action skills: one Good (+3), two Fair (+2), three Average (+1), three Mediocre (+0), and two Poor (-1).
 
 .Class
-- *Stoicheiology*: the manipulation of elemental forces (air, earth, fire, water, aether, and others)
-- *Mentalism*: the art of mind-reading, communication, and illusion
+- *Artificing*: the creation and use of arcane devices, potions, and artefacts
 - *Clairvoyance*: the uncanny knowledge of the past, present, future
-- *Naturalia*: the study of thaumaturgical flora, fauna, and fiends
-- *Artificing*: the creation and use of thaumaturgical devices, potions, and knick-knacks
-- *Metamorphics*: the changing of one thing into another
 - *Kinetica*: the control of movement through the physical realm
+- *Mentalism*: the art of mind-reading, communication, and illusion
+- *Metamorphics*: the changing of one thing into another
+- *Naturalia*: the study of supernatural flora, fauna, and fiends
+- *Stoicheiology*: the manipulation of elemental forces (air, earth, fire, water, aether, and others)
+
+First-year characters may distribute the following scores to their Class grades: one Fair (+2), two Average (+1), two Mediocre (+0), and two Poor (-1).
+
+==== Example characters
+
+// todo
 
 ifndef::player-only[]
 
 == Game Master rules
+
+CAUTION: This section's contents may spoil some of the mysterious elements of gameplay!
+If you are not a Game Master, turn back now (and consider the player-only version of this book).
+
+=== Lessons
+
+=== Non-player characters (NPCs)
+
+This section offers some suggestions of characters your players may come across in the game.
+
+==== Staff
+
+// head
+.Ms Fortuna
+The headmistress of the Academy is rarely seen, and revels in her cloak of enigma.
+Few students have met her in person, and little is known of her life or methods.
+Should a player come into her presence, they would be met with an eldritch vision difficult to focus on.
+It most closely resembles a series of floating cubes, shifting and uncountable.
+Hearing her speak is like standing in the midst of many conversations: it is only after the end of a sentence that the memory of the cacophony resolves into a cohesive sentiment.
+
+// artificing
+
+.Professor Werkza (Artificing)
+Werkza is a goblin, her thin white hair scraped into a greasy bun pinned with a variety of hand tools.
+She is dwarfed by most students (even the dwarves), but rarely enters the workshop on her own two feet.
+She will variously stomp, bounce, flutter, or roll around the room aboard whatever contraption is holding her frenetic attention on any given day.
+
+// clairvoyance
+
+.A crystal ball (Clairvoyance)
+Auditing Clairvoyance lessons has proved quite impossible.
+There is no member of staff assigned to teach this class, nor a curriculum to follow: students seem simply to gaze into a glassy orb at the front of the classroom for an hour at a time.
+Nevertheless, their exam results are in many cases exemplary.
+// tighten this up, more Zoom metaphors
+A previous school administration attempted to deliver more lessons in remote locations in a similar fashion, but it was deemed too silly to continue.
+
+// kinetica
+
+.Mrs Rangelwurst (Kinetica)
+The school's Kinetica teacher is a troll, who also serves as head coach for its sports teams.
+Whether she can cast any actual spells remains to be seen, but woe betide any student who can't evade a Sphere of Rebounding by the end of their first class.
+
+// mentalism
+
+.Dr Bernard Holden (Mentalism)
+The Mentalism teacher is known for his tenacious oral examinations of students, bordering on interrogations.
+His nickname is the _"Why?" Tyrant_.
+He wears a thick monocle.
+Several, in fact - one for his large central eye, and more for the dozens of lesser eyes on stalks covering his hovering spherical body.
+
+// metamorphics
+
+.The Sludge (Metamorphics)
+This Metamorphics teacher is decanted into a large round-bottomed flask at the start of every day: from whence is not known to the students.
+What the lessons lack in physical demonstration is made up by the Sludge's feverishly meticulous descriptions of the mutability of form.
+
+// naturalia
+
+.Professor Bearington (Naturalia)
+This Naturalia teacher cuts a hulking figure, with shaggy dark hair and beady eyes.
+His intimidating countenance and gruff manner belie his true nature as an intellectual and caring steward of the magical wilderness.
+Also, he is a bear.
+
+// stoicheiology
+
+.Dr Oppensteiner (Stoicheiology)
+The Stoicheiology professor came to the thaumaturgical world late in life, after an extensive career in mundane physics.
+He has never quite recovered from the transition, and alternates between razor focus on the subject at hand, and staring around the room with a look of vague glassy-eyed surprise.
 
 endif::player-only[]
 
